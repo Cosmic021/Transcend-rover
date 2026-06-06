@@ -18,7 +18,6 @@ Built on **ROS2 Jazzy**, **Raspberry Pi 4B**, **ESP32**, and **YDLidar X2** — 
 
 ## 📸 Project Photos
 
-> Add your photos to the `Images/` folder and update paths below.
 
 | Rover Build | Hardware Mount |
 |:-----------:|:--------------:|
