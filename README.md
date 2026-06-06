@@ -267,7 +267,7 @@ The ESP32 runs as a **full ROS2 node** using micro-ROS over WiFi UDP. It is not 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MayankJain-22/Transcend-Rover.git
+git clone https://github.com/Cosmic021/Transcend-Rover.git
 cd Transcend-Rover
 ```
 
@@ -435,12 +435,12 @@ See [`Docs/PHASES.md`](Docs/PHASES.md) for the full detailed phase breakdown.
 
 ## 👤 Author
 
-**Mayank Jain**
+**Ayush Kumar Singh**
 Robotics and Automation Engineer 
 
 > *ROS2 architecture, ros2_control hardware interface plugin, URDF modelling, Gazebo simulation, micro-ROS ESP32 firmware, physical hardware build and wiring — all designed and built from scratch.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MayankJain-22)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Cosmic021)
 
 ---
 
